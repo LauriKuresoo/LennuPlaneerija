@@ -15,7 +15,7 @@ services:
       - app-network
 
   backend:
-    build: ./path-to-backend
+    build: ./LennudBackend
     container_name: spring-backend
     environment:
       SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/flightsdb
@@ -29,7 +29,7 @@ services:
       - app-network
 
   frontend:
-    build: ./path-to-frontend
+    build: ./LennudWeb
     container_name: vue-frontend
     ports:
       - "5173:5173"
