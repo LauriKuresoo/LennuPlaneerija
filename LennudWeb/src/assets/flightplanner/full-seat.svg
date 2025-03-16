@@ -1,0 +1,18 @@
+<svg id="dolu-koltuk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.005" height="27.667" viewBox="0 0 30.005 27.667">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.161" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.196"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_6991" data-name="Path 6991" d="M10.713,8C9.219,8,8,9.51,8,11.357V28.405c0,1.848,1.219,3.357,2.713,3.357h21.48c1.488,0,2.719-1.51,2.719-3.357V11.357C34.911,9.51,33.681,8,32.193,8H10.714Z" transform="translate(-6.084 -8)" fill="#99a1ae" fill-rule="evenodd"/>
+  <path id="Path_6992" data-name="Path 6992" d="M10.747,38.593c-1.475,0-2.677,1.512-2.677,3.375v1.384c0,1.857,1.2,3.369,2.677,3.369H32.062c1.482,0,2.689-1.512,2.689-3.369V41.968c0-1.863-1.207-3.375-2.689-3.375Z" transform="translate(-6.109 -19.054)" fill="none" fill-rule="evenodd"/>
+  <g id="Group_13834" data-name="Group 13834" transform="translate(1.961 19.539)">
+    <path id="Path_6993" data-name="Path 6993" d="M5.747,32.593c-1.475,0-2.677,1.512-2.677,3.375v1.384c0,1.857,1.2,3.369,2.677,3.369H27.061c1.482,0,2.689-1.512,2.689-3.369V35.968c0-1.863-1.207-3.375-2.689-3.375Z" transform="translate(-3.07 -32.593)" fill="#7c8799"/>
+    <path id="Path_6994" data-name="Path 6994" d="M5.747,32.593c-1.475,0-2.677,1.512-2.677,3.375v1.384c0,1.857,1.2,3.369,2.677,3.369H27.061c1.482,0,2.689-1.512,2.689-3.369V35.968c0-1.863-1.207-3.375-2.689-3.375Z" transform="translate(-3.07 -32.593)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+  <path id="Path_6995" data-name="Path 6995" d="M33.025,11.2a1.6,1.6,0,0,0-1.42,1.714v13.6a1.592,1.592,0,0,0,1.42,1.7h.565A1.6,1.6,0,0,0,35,26.51v-13.6A1.605,1.605,0,0,0,33.59,11.2h-.565Zm-26.65,0A1.591,1.591,0,0,0,5,12.912v13.6a1.588,1.588,0,0,0,1.375,1.7h.574a1.584,1.584,0,0,0,1.357-1.7v-13.6A1.588,1.588,0,0,0,6.949,11.2H6.375Z" transform="translate(-5 -9.156)" fill="#c3cbd7" fill-rule="evenodd"/>
+  <g id="Group_13835" data-name="Group 13835" transform="translate(13.412 8.941)">
+    <path id="Path_6996" data-name="Path 6996" d="M30.019,22.187a.639.639,0,0,0-.9,0L28.1,23.2,27.09,22.187a.639.639,0,1,0-.9.9L27.2,24.1l-1.013,1.013a.639.639,0,1,0,.9.9L28.1,25.006l1.013,1.013a.639.639,0,1,0,.9-.9L29.007,24.1l1.012-1.013A.639.639,0,0,0,30.019,22.187Z" transform="translate(-26 -22)" fill="#fff"/>
+  </g>
+</svg>

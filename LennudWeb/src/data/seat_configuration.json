@@ -1,0 +1,1545 @@
+{
+    "seatLayout": [
+        {
+            "row": "0",
+            "layout": [
+                "WINDOW",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "D",
+            "layout": [
+                "DOOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "DOOR"
+            ]
+        },
+        {
+            "row": "0",
+            "layout": [
+                "WINDOW",
+                "TOILET",
+                "TOILET",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "TOILET",
+                "TOILET",
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "5",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "05A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "05B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "05C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "05D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "05E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "05F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "6",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "06A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "06B",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "06C",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "06D",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "06E",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "06F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "7",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "07A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "07B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "07C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "07D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "07E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "07F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "8",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "08A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "08B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "08C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "08D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "08E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "08F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "9",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "09A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "09B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "09C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "09D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "09E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "09F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "10",
+            "layout": [
+                "WING",
+                {
+                    "seatNumber": "10A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "10B",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "10C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "10D",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "10E",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "10F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WING"
+            ]
+        },
+        {
+            "row": "E",
+            "layout": [
+                "EMERGENCY",
+                "EMERGENCYEXITLEFT",
+                "EMERGENCYBLANK",
+                "EMERGENCYBLANK",
+                "CORRIDOR",
+                "EMERGENCYBLANK",
+                "EMERGENCYBLANK",
+                "EMERGENCYEXITRIGHT",
+                "EMERGENCY"
+            ]
+        },
+        {
+            "row": "11",
+            "layout": [
+                "EXIT",
+                {
+                    "seatNumber": "11A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "11B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "11C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "11D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "11E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "11F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": false
+                },
+                "EXIT"
+            ]
+        },
+        {
+            "row": "E",
+            "layout": [
+                "EMERGENCY",
+                "EMERGENCYEXITLEFT",
+                "EMERGENCYBLANK",
+                "EMERGENCYBLANK",
+                "CORRIDOR",
+                "EMERGENCYBLANK",
+                "EMERGENCYBLANK",
+                "EMERGENCYEXITRIGHT",
+                "EMERGENCY"
+            ]
+        },
+        {
+            "row": "12",
+            "layout": [
+                "EXIT",
+                {
+                    "seatNumber": "12A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "12B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "12C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "12D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "12E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": true,
+                    "exit": true,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "12F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": true,
+                    "exit": true,
+                    "center": false,
+                    "corridor": false
+                },
+                "EXIT"
+            ]
+        },
+        {
+            "row": "13",
+            "layout": [
+                "WING",
+                {
+                    "seatNumber": "13A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "13B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "13C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "13D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "13E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "13F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WING"
+            ]
+        },
+        {
+            "row": "14",
+            "layout": [
+                "WING",
+                {
+                    "seatNumber": "14A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "14B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "14C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "14D",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "14E",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "14F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WING"
+            ]
+        },
+        {
+            "row": "15",
+            "layout": [
+                "WING",
+                {
+                    "seatNumber": "15A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "15B",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "15C",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "15D",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "15E",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "15F",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WING"
+            ]
+        },
+        {
+            "row": "16",
+            "layout": [
+                "WING",
+                {
+                    "seatNumber": "16A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "16B",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "16C",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "16D",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "16E",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "16F",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WING"
+            ]
+        },
+        {
+            "row": "17",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "17A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "17B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "17C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "17D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "17E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "17F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "18",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "18A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "18B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "18C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "18D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "18E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "18F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "19",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "19A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "19B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "19C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "19D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "19E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "19F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "20",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "20A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "20B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "20C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "20D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "20E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "20F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "21",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "21A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "21B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "21C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "21D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "21E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "21F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "22",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "22A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "22B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "22C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "22D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "22E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "22F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "23",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "23A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "23B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "23C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "23D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "23E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "23F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "24",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "24A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "24B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "24C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "24D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "24E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "24F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "25",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "25A",
+                    "occupied": true,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "25B",
+                    "occupied": true,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "25C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "25D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "25E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "25F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "26",
+            "layout": [
+                "WINDOW",
+                {
+                    "seatNumber": "26A",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "26B",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "26C",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                "CORRIDOR",
+                {
+                    "seatNumber": "26D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "26E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "26F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "27",
+            "layout": [
+                "WINDOW",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "CORRIDOR",
+                {
+                    "seatNumber": "27D",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": true
+                },
+                {
+                    "seatNumber": "27E",
+                    "occupied": false,
+                    "window": false,
+                    "legroom": false,
+                    "exit": false,
+                    "center": true,
+                    "corridor": false
+                },
+                {
+                    "seatNumber": "27F",
+                    "occupied": false,
+                    "window": true,
+                    "legroom": false,
+                    "exit": false,
+                    "center": false,
+                    "corridor": false
+                },
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "0",
+            "layout": [
+                "WINDOW",
+                "TOILET",
+                "TOILET",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "TOILET",
+                "TOILET",
+                "WINDOW"
+            ]
+        },
+        {
+            "row": "D",
+            "layout": [
+                "DOOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "CORRIDOR",
+                "DOOR"
+            ]
+        },
+        {
+            "row": "0",
+            "layout": [
+                "WINDOW",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "BLANK",
+                "WINDOW"
+            ]
+        }
+    ],
+    "occupiedSeats": [
+        "06A",
+        "06B",
+        "06C",
+        "06D",
+        "06E",
+        "07A",
+        "09A",
+        "10A",
+        "10B",
+        "10D",
+        "10E",
+        "14D",
+        "14E",
+        "15A",
+        "15B",
+        "15C",
+        "15D",
+        "15E",
+        "15F",
+        "16A",
+        "16B",
+        "16C",
+        "16D",
+        "16E",
+        "16F",
+        "25A",
+        "25B"
+    ]
+}

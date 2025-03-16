@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.005" height="28.583" viewBox="0 0 30.005 28.583">
+  <g id="Group_14098" data-name="Group 14098" transform="translate(-615.588 -250)">
+    <g id="ekstra-mesafe" transform="translate(615.588 250)">
+      <g id="Group_13827" data-name="Group 13827" transform="translate(1.997 0)">
+        <path id="Path_6969" data-name="Path 6969" d="M2.84.566C1.346.566.127,2.076.127,3.923V20.972c0,1.848,1.219,3.357,2.713,3.357H24.32c1.488,0,2.719-1.51,2.719-3.357V3.923c0-1.848-1.231-3.357-2.719-3.357Z" transform="translate(-0.127 -0.566)" fill="#232b38" fill-rule="evenodd"/>
+      </g>
+      <path id="Path_6974" data-name="Path 6974" d="M33.025,11.128a1.6,1.6,0,0,0-1.42,1.714v13.6a1.592,1.592,0,0,0,1.42,1.7h.565A1.6,1.6,0,0,0,35,26.438v-13.6a1.605,1.605,0,0,0-1.415-1.714h-.565ZM6.328,11A1.6,1.6,0,0,0,5,12.737V26.518a1.59,1.59,0,0,0,1.328,1.726h.554c.711,0,1.311-.8,1.311-1.726V12.737c0-.942-.6-1.737-1.311-1.737Z" transform="translate(-5 -8.168)" fill="#c3cbd7" fill-rule="evenodd"/>
+    </g>
+    <rect id="Rectangle_3927" data-name="Rectangle 3927" width="26.68" height="8.13" rx="3" transform="translate(617.469 270.453)" fill="#f4717c"/>
+  </g>
+</svg>

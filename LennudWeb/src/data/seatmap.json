@@ -1,0 +1,43 @@
+{
+  "seatMap": {
+    "3": {
+      "A": { "type": "Seat", "code": "A", "rowNumber": 3, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "C": { "type": "Seat", "code": "C", "rowNumber": 3, "availability": "Unavailable", "characteristics": ["W", "CH", "RS", "1"] },
+      "@3": { "type": "Aisle", "rowNumber": 3, "selected": false }
+    },
+    "4": {
+      "A": { "type": "Seat", "code": "A", "rowNumber": 4, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "C": { "type": "Seat", "code": "C", "rowNumber": 4, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "@3": { "type": "Aisle", "rowNumber": 4, "selected": false }
+    },
+    "5": {
+      "A": { "type": "Seat",
+        "code": "A",
+        "rowNumber": 5,
+        "availability": "Available",
+        "characteristics": ["W", "CH", "RS", "Extra Legroom"] },
+      "C": { "type": "Seat", "code": "C", "rowNumber": 5, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "@3": { "type": "Aisle", "rowNumber": 5, "selected": false }
+    },
+    "6": {
+      "@3": { "type": "Aisle", "rowNumber": 6, "selected": false },
+      "@7": { "type": "Aisle", "rowNumber": 6, "selected": false },
+      "A": { "type": "Seat", "code": "A", "rowNumber": 6, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "C": { "type": "Seat", "code": "C", "rowNumber": 6, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "D": { "type": "Seat", "code": "D", "rowNumber": 6, "availability": "Available", "characteristics": ["W", "CH", "RS", "1"] },
+      "E": { "type": "Seat", "code": "E", "rowNumber": 6, "availability": "Available", "characteristics": [] },
+      "F": {
+        "type": "Seat",
+        "code": "F",
+        "rowNumber": 6,
+        "availability": "Available",
+        "characteristics": ["W", "CH", "RS", "1"],
+        "offers": {
+          "passengerId": 1,
+          "price": { "baseFare": 150, "currencyCode": "EUR", "tax": 0, "total": 150 },
+          "rateKey": "5D4DF3BADF5E5E4398B07A37F9018C71"
+        }
+      }
+    }
+  }
+}
